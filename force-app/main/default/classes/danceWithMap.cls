@@ -1,5 +1,5 @@
-public with sharing class danceWithMap {
-    public danceWithMap() {
+public with sharing class DanceWithMap {
+    public DanceWithMap() {
         Map<String, Integer> newMap = new Map<String, Integer>(); 
         newMap.put('Opportunity',10);
         newMap.put('Account',20);
